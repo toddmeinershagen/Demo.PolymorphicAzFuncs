@@ -1,3 +1,6 @@
+Demo based on an article on Stack Overflow for handling polymorphic object shapes to the same Resource on a REST API.
+https://stackoverflow.com/questions/46085499/inheritance-and-polymorphism-in-rest-api-modeling
+
 1.  Get All Pay Runs
 
 GET /api/client/1/payroll/2/paygroup/3/payrun HTTP/1.1
